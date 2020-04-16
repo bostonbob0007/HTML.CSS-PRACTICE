@@ -24,4 +24,4 @@ commit -m"always use good commit messages"<br>
   push(to send to github)<br>
   -publish or share<br>
   log<br>
-  -a record or log for all the commits<br>
+  -generalrecord or log for all the commits<br>
