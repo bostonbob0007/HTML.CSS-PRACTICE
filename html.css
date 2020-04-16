@@ -1,0 +1,41 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* watermark */
+.watermark {
+    position: fixed;
+    bottom: 3px;
+    right: 3px;
+    opacity: 0.5;
+    z-index: 99;
+    color: rgb(238, 20, 220);
+}
+

@@ -25,3 +25,4 @@ commit -m"always use good commit messages"<br>
   -publish or share<br>
   log<br>
   -generalrecord or log for all the commits<br>
+-to quit log infomation press"Q"<br>
